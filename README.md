@@ -34,9 +34,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="40" alt="neovim logo"  />
-
-          
 </div>
+
+<p align="left">I Love the Rosé Pine Theme<br>and procrastinating :(</p>
 
 ###
 
