@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://art.pixilart.com/b870f4898f4d.gif"  />
+  <img width='auto' src="https://art.pixilart.com/b870f4898f4d.gif"  />
 </div>
 
 ###
