@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="/.github/workspace/snake.yml" alt="Snake animation" />
+<img src="/.github/workflow/snake.yml" alt="Snake animation" />
 
 ###
