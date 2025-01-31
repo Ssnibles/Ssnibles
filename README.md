@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-![kirbo.gif](kirbo.gif)
+<div style="display: flex; align-items: center;">
+  <img src="./kirbo.gif" alt="Description" style="width: 200px; margin-right: 20px;">
+  <p>Your text goes here, right next to the image.</p>
+</div>
 
 <!--
 **Ssnibles/Ssnibles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
