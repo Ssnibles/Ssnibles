@@ -9,7 +9,7 @@
 
 <img align="right" height="200" src="https://i.pinimg.com/originals/67/23/f5/6723f53890d821aefdd3f3c2a4ed4c09.gif"  />
 
-###
+### My Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
