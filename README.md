@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Squsashing bugs since 2020<br><br>📚 I'm currently learning C, Go, and Rust<br><br>🎯 I'd love to make my own, custom keyboard one day<br><br>🐧I use Arch btw</p>
+<p align="left">✨ Squsashing bugs since 2020<br><br>📚 I'm currently learning C, Go, and Rust<br><br>🎯 I'd love to make my own game engine from scratch one day<br><br>🐧I use Arch btw</p>
 
 ###
 
