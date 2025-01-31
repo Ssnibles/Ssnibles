@@ -32,12 +32,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="40" alt="neovim logo"  />
+
+          
 </div>
 
 ###
 
 <div align="center">
-  <img width='auto' src="https://art.pixilart.com/b870f4898f4d.gif"  />
+  <img width="auto" src="https://art.pixilart.com/b870f4898f4d.gif"  />
 </div>
 
 ###
