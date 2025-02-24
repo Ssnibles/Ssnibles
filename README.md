@@ -1,16 +1,15 @@
 <h1 align="center">👋 Hey there! I'm Josh</h1>
 
 <p align="center">
-  <img src="https://art.pixilart.com/b870f4898f4d.gif" alt="Pixel Art Coding Animation" width="300"/>
+  <img src="https://art.pixilart.com/b870f4898f4d.gif" width="300"/>
 </p>
 
 ## 🚀 About Me
 
 - 🐛 Squashing bugs since 2020
 - 🌱 Currently learning C, Go, and Rust
-- 🎮 Aspiring to build my own game engine from scratch
+- 🎮 My goal is to make my own game engine from scratch
 - 🐧 Arch Linux enthusiast (I use Arch btw)
-- 🔧 Open-source contributor and technology explorer
 
 ## 🛠️ Tech Stack
 
@@ -29,10 +28,10 @@
   <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">💖 Thanks for visiting my profile! Feel free to explore my repositories if you find them interesting!</p>
