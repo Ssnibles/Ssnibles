@@ -32,6 +32,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p> -->
+</p>
 
-<p align="center">💖 Thanks for visiting my profile! Feel free to explore my repositories if you find them interesting!</p>
+<p align="center">💖 Thanks for visiting my profile! Feel free to explore my repositories if you find them interesting!</p> -->
