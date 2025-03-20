@@ -15,7 +15,7 @@
 <pre>
  ~> <strong>fastfetch</strong>
                                         ╭───────────╮
-<img src="kitty.png" alt="kitty.png" width="150">│ user      |    josh
+<img src="kitty.png" alt="kitty.png" style="float: left; margin-right: 10px; width: 150px;">│ user      |    josh
                                         │ distro    |    Arch BTW
                                         │ kernel    |    Linux 6.13.7-3
                                         │ uptime    |    3 Hrs 44 Mins
