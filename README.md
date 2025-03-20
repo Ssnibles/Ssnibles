@@ -1,4 +1,4 @@
-<pre>
+_<pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
     /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
@@ -14,8 +14,9 @@
 
 <pre>
  ~> <strong>fastfetch</strong>
+      <img src="kitty.png" alt="kitty.png" style="float: left; width: 350px;">
                                         ╭───────────╮
-<img src="kitty.png" alt="kitty.png" style="float: left; width: 350px;">│ user      |    josh
+                                        │ user      |    josh
                                         │ distro    |    Arch BTW
                                         │ kernel    |    Linux 6.13.7-3
                                         │ uptime    |    3 Hrs 44 Mins
