@@ -15,7 +15,7 @@
       
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/user.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> user: josh  
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/terminal.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> distro: Arch BTW  
-      <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/layout.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> wm: Hyprland
+<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/layout.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> wm: Hyprland
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/code.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> kernel: Linux 6.13.7-2  
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/clock.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> uptime: 3 Hrs 58 Mins  
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/terminal.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> term: ghostty  
