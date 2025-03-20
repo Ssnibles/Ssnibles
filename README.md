@@ -1,4 +1,4 @@
-```bash
+<pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
     /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
@@ -12,8 +12,6 @@
      \/__/         \/__/         \/__/     \/__/     \/__/    
 
  ~> fastfetch
-```
-<pre>
 <img src="https://img.icons8.com/fluency/48/000000/user-male-circle.png" width="20" height="20"/> **user**: josh  
 <img src="https://img.icons8.com/color/48/000000/linux.png" width="20" height="20"/> **distro**: Arch BTW  
 <img src="https://img.icons8.com/color/48/000000/linux.png" width="20" height="20"/> **kernel**: Linux 6.13.7-2  
