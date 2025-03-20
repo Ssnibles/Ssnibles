@@ -14,7 +14,7 @@ _<pre>
 
 <pre>
  ~> <strong>fastfetch</strong>
-      <div><img src="kitty.png" alt="kitty.png" style="float: left; width: 350px;"></div>
+<img src="kitty.png" alt="kitty.png" style="float: left; width: 350px;">
                                         ╭───────────╮
                                         │ user      |    josh
                                         │ distro    |    Arch BTW
