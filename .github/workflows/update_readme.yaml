@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write # Remains crucial for writing back to the repository
+  contents: write
 
 jobs:
   update-readme:
