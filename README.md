@@ -1,4 +1,3 @@
-<pre>
 > fastfetch
       
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/user.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> <span style="color: #E5C07B;">user</span>: <span style="color: #56B6C2;">josh</span>  
@@ -17,4 +16,3 @@
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/cpu.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> <span style="color: #61AFEF;">cpu</span>: <span style="color: #C678DD;">AMD Ryzen 5800x3D @4.3 Ghz</span>
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/cpu.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> <span style="color: #61AFEF;">memory</span>: <span style="color: #C678DD;">5.06 GiB (16%)</span>  
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/hard-drive.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> <span style="color: #61AFEF;">disk</span>: <span style="color: #C678DD;">260.66 GiB (28%)</span>
-</pre>
