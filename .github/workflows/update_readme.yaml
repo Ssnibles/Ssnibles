@@ -1,0 +1,28 @@
+name: Update Birthday Uptime
+
+on:
+  # Run once a day at midnight UTC
+  schedule:
+    - cron: '0 0 * * *'
+  # Allows manual triggering from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up executable permissions
+        run: chmod +x update_readme.sh
+
+      - name: Update Uptime in README
+        run: ./update_readme.sh
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: '🤖 Automated: Update birthday uptime'
+          # Only commit if the README.md file actually changed
+          commit_options: '--no-verify --allow-empty'
