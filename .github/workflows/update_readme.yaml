@@ -7,6 +7,9 @@ on:
   # Allows manual triggering from the Actions tab
   workflow_dispatch:
 
+permissions:
+  contents: write # Crucial fix: grants permission to commit and push changes
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -24,5 +27,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: '🤖 Automated: Update birthday uptime'
-          # Only commit if the README.md file actually changed
           commit_options: '--no-verify --allow-empty'
