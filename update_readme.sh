@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Your date of birth in YYYY-MM-DD format
-BIRTHDAY="1990-01-01" # <<< REPLACE THIS WITH YOUR REAL BIRTHDAY
+BIRTHDAY="2006-10-29"
 
 # Calculate seconds since the epoch for the birthday and now
 # Note: GitHub Actions run in UTC, so your birthday will be treated as UTC 00:00:00
