@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # --- CONFIGURATION ---
-# Replace these dates with your actual dates in YYYY-MM-DD format
-BIRTHDAY="2006-10-29"           # Your birthday
-LINUX_START_DATE="2024-10-02"   # Date you started using Linux (or a different milestone)
+# YYYY-MM-DD format
+BIRTHDAY="2006-10-29"           # Birthday
+LINUX_START_DATE="2024-10-02"   # Date since I started using Linux
 # ---------------------
 
 # --- FUNCTION TO CALCULATE AND FORMAT TIME ---
@@ -40,8 +40,6 @@ echo "Linux Journey: $NEW_LINUX_JOURNEY"
 SED_PATTERN_BIRTHDAY="s|<img src=\"https:\/\/cdn.jsdelivr.net\/npm\/feather-icons@4.28.0\/dist\/icons\/clock.svg\" width=\"16\" height=\"16\" style=\"filter: brightness(0) invert(1);\"\/> uptime: .*|<img src=\"https:\/\/cdn.jsdelivr.net\/npm\/feather-icons@4.28.0\/dist\/icons\/clock.svg\" width=\"16\" height=\"16\" style=\"filter: brightness(0) invert(1);\"\/> uptime: $NEW_BIRTHDAY_UPTIME|g"
 
 # 2. Pattern for New Metric (calendar/activity icon)
-# NOTE: You must add a new line for the Linux Journey to your README first!
-# I'll use the activity icon (<img src=".../activity.svg" ...) for this new line.
 SED_PATTERN_LINUX="s|<img src=\"https:\/\/cdn.jsdelivr.net\/npm\/feather-icons@4.28.0\/dist\/icons\/activity.svg\" width=\"16\" height=\"16\" style=\"filter: brightness(0) invert(1);\"\/> journey: .*|<img src=\"https:\/\/cdn.jsdelivr.net\/npm\/feather-icons@4.28.0\/dist\/icons\/activity.svg\" width=\"16\" height=\"16\" style=\"filter: brightness(0) invert(1);\"\/> journey: $NEW_LINUX_JOURNEY|g"
 
 # Apply both replacements to README.md
