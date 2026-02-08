@@ -7,8 +7,8 @@
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/code.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> kernel: Linux 6.13.7-2  
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/layout.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> wm: Hyprland
 
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/clock.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> uptime: 7041 Days 1 Hrs 53 Mins
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/activity.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> journey: 493 Days 1 Hrs 53 Mins
+<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/clock.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> uptime: 7042 Days 2 Hrs 26 Mins
+<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/activity.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> journey: 494 Days 2 Hrs 26 Mins
 
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/terminal.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> term: ghostty  
 <img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/terminal.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> shell: fish  
