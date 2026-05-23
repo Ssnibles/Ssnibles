@@ -1,20 +1,30 @@
-<pre>
-> fastfetch
-      
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/user.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> user: josh  
+```bash
+       _____         _     _ _     _       
+      / ____|       | |   (_) |   | |      
+     | (___   ___ __| |__  _| |__ | |_ ___ 
+      \___ \ / __/ _` '_ \| | '_ \| __/ __|
+      ____) | (_| (_| | | | | |_) | |_\__ \
+     |_____/ \___\__,_| |_|_|_.__/ \__|___/
+                                           
+                                           
 
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/terminal.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> distro: NixOS BTW  
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/code.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> kernel: Linux 6.13.7-2  
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/layout.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> wm: Hyprland
+ [josh@archlinux ~]$ fastfetch
 
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/clock.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> uptime: 7146 Days 2 Hrs 49 Mins
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/activity.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> journey: 598 Days 2 Hrs 49 Mins
+ 🧑 user:         josh
+ 💻 distro:       Arch BTW
+ 🖥️ kernel:       Linux 6.13.7-2
+ 🪟 wm:           Hyprland
 
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/terminal.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> term: ghostty  
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/terminal.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> shell: fish  
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/edit.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> editor: neovim  
+ 🕰️ uptime:       7146 Days 2 Hrs 49 Mins
+ 🔋 journey:      598 Days 2 Hrs 49 Mins
 
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/cpu.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> cpu: AMD Ryzen 5800x3D @4.3 Ghz
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/cpu.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> memory: 5.06 GiB (16%)  
-<img src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/icons/hard-drive.svg" width="16" height="16" style="filter: brightness(0) invert(1);"/> disk: 260.66 GiB (28%)
-</pre>
+ 🖥️ term:         ghostty
+ 🐟 shell:        fish
+ 📝 editor:       neovim
+
+ 🧠 cpu:          AMD Ryzen 5800x3D @4.3 GHz
+ 🧮 memory:       5.06 GiB (16%)
+ 💾 disk:         260.66 GiB (28%)
+
+ [josh@archlinux ~]$
+```
