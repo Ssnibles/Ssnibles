@@ -7,7 +7,7 @@
         \/     \/     \/        \/          \/     \/ 
                                            
 
- [josh@archlinux ~]$ fastfetch
+ [josh@nixos ~]$ fastfetch
 
  🧑 user:         josh
  💻 distro:       NixOS BTW
@@ -25,5 +25,5 @@
  🧮 memory:       5.06 GiB (16%)
  💾 disk:         260.66 GiB (28%)
 
- [josh@archlinux ~]$
+ [josh@nixos ~]$
 ```
