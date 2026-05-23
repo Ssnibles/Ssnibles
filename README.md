@@ -10,7 +10,7 @@
  [josh@archlinux ~]$ fastfetch
 
  🧑 user:         josh
- 💻 distro:       Arch BTW
+ 💻 distro:       NixOS BTW
  🖥️ kernel:       Linux 6.13.7-2
  🪟 wm:           Hyprland
 
