@@ -37,10 +37,10 @@ echo "Linux Journey: $NEW_LINUX_JOURNEY"
 # --- UPDATE README.md ---
 
 # 1. Pattern for Birthday Uptime (clock emoji)
-SED_PATTERN_BIRTHDAY="s|^\\([[:space:]]*\\)🕰️ uptime:.*|\\1🕰️ uptime:       $NEW_BIRTHDAY_UPTIME|g"
+SED_PATTERN_BIRTHDAY="s|^\\([[:space:]]*\\)🕰️ uptime:\\([[:space:]]*\\).*|\\1🕰️ uptime:\\2$NEW_BIRTHDAY_UPTIME|g"
 
 # 2. Pattern for Linux Journey (battery emoji)
-SED_PATTERN_LINUX="s|^\\([[:space:]]*\\)🔋 journey:.*|\\1🔋 journey:      $NEW_LINUX_JOURNEY|g"
+SED_PATTERN_LINUX="s|^\\([[:space:]]*\\)🔋 journey:\\([[:space:]]*\\).*|\\1🔋 journey:\\2$NEW_LINUX_JOURNEY|g"
 
 # Apply both replacements to README.md
 # We're running sed with two separate expressions (-e)
