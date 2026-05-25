@@ -36,11 +36,11 @@ echo "Linux Journey: $NEW_LINUX_JOURNEY"
 
 # --- UPDATE README.md ---
 
-# 1. Pattern for Birthday Uptime (clock icon)
-SED_PATTERN_BIRTHDAY="s|<img src=\"https:\/\/cdn.jsdelivr.net\/npm\/feather-icons@4.28.0\/dist\/icons\/clock.svg\" width=\"16\" height=\"16\" style=\"filter: brightness(0) invert(1);\"\/> uptime: .*|<img src=\"https:\/\/cdn.jsdelivr.net\/npm\/feather-icons@4.28.0\/dist\/icons\/clock.svg\" width=\"16\" height=\"16\" style=\"filter: brightness(0) invert(1);\"\/> uptime: $NEW_BIRTHDAY_UPTIME|g"
+# 1. Pattern for Birthday Uptime (clock emoji)
+SED_PATTERN_BIRTHDAY="s|^\\([[:space:]]*\\)🕰️ uptime:.*|\\1🕰️ uptime:       $NEW_BIRTHDAY_UPTIME|g"
 
-# 2. Pattern for New Metric (calendar/activity icon)
-SED_PATTERN_LINUX="s|<img src=\"https:\/\/cdn.jsdelivr.net\/npm\/feather-icons@4.28.0\/dist\/icons\/activity.svg\" width=\"16\" height=\"16\" style=\"filter: brightness(0) invert(1);\"\/> journey: .*|<img src=\"https:\/\/cdn.jsdelivr.net\/npm\/feather-icons@4.28.0\/dist\/icons\/activity.svg\" width=\"16\" height=\"16\" style=\"filter: brightness(0) invert(1);\"\/> journey: $NEW_LINUX_JOURNEY|g"
+# 2. Pattern for Linux Journey (battery emoji)
+SED_PATTERN_LINUX="s|^\\([[:space:]]*\\)🔋 journey:.*|\\1🔋 journey:      $NEW_LINUX_JOURNEY|g"
 
 # Apply both replacements to README.md
 # We're running sed with two separate expressions (-e)
