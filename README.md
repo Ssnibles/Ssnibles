@@ -15,8 +15,8 @@
  🖥️ kernel:       Linux 6.13.7-2
  🪟 wm:           Hyprland
 
- 🕰️ uptime:       7148 Days 13 Hrs 32 Mins
- 🔋 journey:      600 Days 13 Hrs 32 Mins
+ 🕰️ uptime:       7146 Days
+ 🔋 journey:      598 Days
 
  🖥️ term:         ghostty
  🐟 shell:        fish
