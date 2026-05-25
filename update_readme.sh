@@ -16,15 +16,13 @@ calculate_time_diff() {
     NOW_SECONDS=$(date +%s)
 
     # Calculate difference in seconds
+    # (Using absolute value if you ever need to handle future dates)
     DIFF_SECONDS=$((NOW_SECONDS - START_SECONDS))
 
-    # Convert seconds to days, hours, and minutes
+    # Convert seconds to days only
     DAYS=$((DIFF_SECONDS / 86400))
-    REMAINDER=$((DIFF_SECONDS % 86400))
-    HOURS=$((REMAINDER / 3600))
-    MINUTES=$(( (REMAINDER % 3600) / 60 ))
 
-    echo "$DAYS Days $HOURS Hrs $MINUTES Mins"
+    echo "$DAYS Days"
 }
 
 # --- CALCULATE VALUES ---
