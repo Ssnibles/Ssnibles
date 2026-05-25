@@ -36,7 +36,7 @@ echo "Linux Journey: $NEW_LINUX_JOURNEY"
 
 # --- UPDATE README.md ---
 
-# 1. Pattern for Birthday Uptime (clock emoji)
+# 1. Pattern for Birthday Uptime (mantelpiece clock emoji)
 SED_PATTERN_BIRTHDAY="s|^\\([[:space:]]*\\)🕰️ uptime:\\([[:space:]]*\\).*|\\1🕰️ uptime:\\2$NEW_BIRTHDAY_UPTIME|g"
 
 # 2. Pattern for Linux Journey (battery emoji)
