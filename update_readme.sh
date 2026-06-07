@@ -16,7 +16,6 @@ calculate_time_diff() {
     NOW_SECONDS=$(date +%s)
 
     # Calculate difference in seconds
-    # (Using absolute value if you ever need to handle future dates)
     DIFF_SECONDS=$((NOW_SECONDS - START_SECONDS))
 
     # Convert seconds to days only
@@ -34,14 +33,13 @@ echo "Linux Journey: $NEW_LINUX_JOURNEY"
 
 # --- UPDATE README.md ---
 
-# 1. Pattern for Birthday Uptime (mantelpiece clock emoji)
-SED_PATTERN_BIRTHDAY="s|^\\([[:space:]]*\\)🕰️ uptime:\\([[:space:]]*\\).*|\\1🕰️ uptime:\\2$NEW_BIRTHDAY_UPTIME|g"
+# Pattern for Uptime (stopwatch emoji, capital U, and double spaces)
+SED_PATTERN_BIRTHDAY="s|⏱️  Uptime[[:space:]]*:.*|⏱️  Uptime       : $NEW_BIRTHDAY_UPTIME|g"
 
-# 2. Pattern for Linux Journey (battery emoji)
-SED_PATTERN_LINUX="s|^\\([[:space:]]*\\)🔋 journey:\\([[:space:]]*\\).*|\\1🔋 journey:\\2$NEW_LINUX_JOURNEY|g"
+# Pattern for Journey (rocket emoji, capital J, and double spaces)
+SED_PATTERN_LINUX="s|🚀  Journey[[:space:]]*:.*|🚀  Journey      : $NEW_LINUX_JOURNEY|g"
 
 # Apply both replacements to README.md
-# We're running sed with two separate expressions (-e)
 sed -i.bak -e "$SED_PATTERN_BIRTHDAY" -e "$SED_PATTERN_LINUX" README.md
 
 # Clean up the backup file
