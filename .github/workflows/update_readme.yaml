@@ -25,5 +25,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add README.md
-          git commit -m "chore: update fastfetch in README" || echo "No changes to commit"
+          git commit --author="Ssnibles <Ssnibles@users.noreply.github.com>" -m "chore: update fastfetch in README" || echo "No changes to commit"
           git push
